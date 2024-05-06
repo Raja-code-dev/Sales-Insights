@@ -8,4 +8,4 @@ The "Sales Insights" project focuses on analyzing sales data to extract actionab
 4.User Engagement: Ensure the dashboard is user-friendly and intuitive for stakeholders to explore and gain insights.<br>
 # Technologies
 Power BI: Business intelligence tool for data visualization and dashboard creation.<br>
-SQL: Used for querying and extracting data from databases.
+SQL(MySQL): Used for querying and extracting data from databases.
